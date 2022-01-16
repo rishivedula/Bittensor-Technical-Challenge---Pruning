@@ -1,1 +1,1 @@
-# Bittensor-Technical-Challenge---Pruning
+# Bittensor Technical Challenge-Pruning
