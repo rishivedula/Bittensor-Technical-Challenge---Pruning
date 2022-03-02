@@ -1,6 +1,6 @@
 # Pruning in Pytorch
 
-This repo consists the solution of the Bittensor Technical Challenge on Pruining a model which was trained on MNIST dataset.
+This repo talks about Pruining a model using pytorch ,trained on MNIST dataset.
 
 ### Dependencies
 ```
